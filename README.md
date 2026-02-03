@@ -61,8 +61,3 @@ I am a professional software engineer focused on building scalable, efficient, a
 ### Authentication & Cloud Services:
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
 ![OAuth2](https://img.shields.io/badge/-OAuth2-000)
-
-
--------
-Credits: [HasnatPranto](https://github.com/HasnatPranto)
-Last Edited on: 03-02-2026
