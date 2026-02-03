@@ -52,12 +52,15 @@ I am a professional software engineer focused on building scalable, efficient, a
 ### DevOps & Tools:
 ![Git](https://img.shields.io/badge/-Git-000?logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?logo=GitLab)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
 
-
 ### Authentication & Cloud Services:
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
 ![OAuth2](https://img.shields.io/badge/-OAuth2-000)
+
+### Editing & Design Tools:
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000)
+![Figma](https://img.shields.io/badge/-Figma-000?logo=Figma)
