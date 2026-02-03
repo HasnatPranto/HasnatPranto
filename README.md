@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<picture> <img align="right" src="https://github.com/HasnatPranto/HasnatPranto/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
+
 I am a professional software engineer focused on building scalable, efficient, and user-friendly software solutions.
 
 * 🧐   Skilled in frontend, backend and cross-platform mobile app development
